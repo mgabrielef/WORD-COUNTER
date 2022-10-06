@@ -22,7 +22,7 @@ Para utilizar o projeto execute:
 git clone 
 ```
 
-# Métodos do projeto
+## Métodos do projeto
 
 Conta a quantidade de palavras:
 
