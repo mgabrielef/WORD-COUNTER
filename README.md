@@ -12,7 +12,6 @@ Tecnologias utilizadas:
 ## ÍNDICE
 * [Utilizando o projeto](#Utilizando-o-projeto)
 * [Métodos do projeto](#Métodos-do-projeto)
-* [Utilizando](#Utilizando)
 
 ## Utilizando o projeto
 
