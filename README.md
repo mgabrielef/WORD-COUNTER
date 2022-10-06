@@ -18,7 +18,7 @@ Tecnologias utilizadas:
 Para utilizar o projeto execute:
 
 ```
-git clone 
+git clone https://github.com/mgabrielef/WORD-COUNTER
 ```
 
 ## Métodos do projeto
