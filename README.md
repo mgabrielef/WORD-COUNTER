@@ -33,7 +33,7 @@ function countWords(str) {
 }
 ```  
 
-Conta quantas vezes a palvra foi repetida:
+Conta quantas vezes a palavra foi repetida:
 
 ```js
 function countRepeatedWords() {
