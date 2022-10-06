@@ -48,7 +48,7 @@ function countRepeatedWords() {
   }  
 ```
 
-Projeto feito por: Gabriele Ferreira, Ian Oliveira, Thayna Santana, Emily Yasmin e Juliana Aguiar
+Projeto feito por: Gabriele Ferreira, Ian Oliveira, Thayna Santana, Emily Yasmin e Juliana Aguiar.
 
 Você pode acessar também o [GITHUB PAGES](https://mgabrielef.github.io/WORD-COUNTER/index.html)
 
